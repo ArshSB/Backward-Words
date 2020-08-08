@@ -323,7 +323,7 @@ submit.addEventListener("keyup", function(event) {
             correctCount++;
 
             //once the background array is fully 'used', reset count back to zero and start again
-            if (backgroundCount === (backgroundCount.length - 1) ) {
+            if (backgroundCount === 7) {
                 backgroundCount = 0;
             }
 
