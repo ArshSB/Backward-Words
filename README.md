@@ -1,7 +1,7 @@
 # Backward Words
 an interactive web app I made as my introduction to web development
 
-built with pure HTML, CSS and Javascript
+built with pure HTML, CSS and Javascript. Hosted on Netlify
 
 ## What is this?
 **'twas a cool summer evening as I browsed r/wallstreetbets when suddenly a light bulb lit in my head and I gained the most splendid ide-**
