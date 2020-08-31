@@ -6,9 +6,7 @@ built with pure HTML, CSS and Javascript. Hosted on Netlify
 ## What is this?
 **'twas a cool summer evening as I browsed r/wallstreetbets when suddenly a light bulb lit in my head and I gained the most splendid ide-**
 
-just kidding. for a much faster explanation, check out the app **[here](https://dazzling-ptolemy-5e8b9a.netlify.app/)**
-
-please excuse the domain name!
+just kidding. for a much faster explanation, check out the app **[here](https://backwardwords.netlify.app/)**
 
 ## Contribution and Reproduction
 please do feel free to submit a pull request if you would like to improve this application, I am sure there's a lot of that to be done
