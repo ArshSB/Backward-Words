@@ -320,7 +320,9 @@ submit.addEventListener("keyup", function(event) {
         submit.value = "";
 
         if (reversedWord.localeCompare(userEntry) == 0) { //check if user is right
-            correctCount++;
+            
+            if (runningBool) correctCount++; 
+            //only add counter when timer is running
 
             //once the background array is fully 'used', reset count back to zero and start again
             if (backgroundCount === 7) {
