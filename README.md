@@ -1,14 +1,12 @@
-# Backward Words
+# Backward Words - test your reverse typing skills
 
 ![Sample Image](images/sample.png)
-an interactive web app I made as my introduction to web development
 
-built with pure HTML, CSS and Javascript. Hosted on Netlify
+An interactive web app I made as my introduction to web development. 
 
-## What is this?
-**'twas a cool summer evening as I browsed r/wallstreetbets when suddenly a light bulb lit in my head and I gained the most splendid ide-**
+Includes a 30 second timer that tracks your correct answers, along with proper success & failure indication. 
 
-just kidding. for a much faster explanation, check out the app **[here](https://backwardwords.netlify.app/)**
+Built with HTML, CSS and vanilla Javascript
 
 ## Attributions
 * [Netlify](https://www.netlify.com/) - for hosting the app
