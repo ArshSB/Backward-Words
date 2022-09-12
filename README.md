@@ -1,4 +1,6 @@
 # Backward Words
+
+![Sample Image](images/sample.png)
 an interactive web app I made as my introduction to web development
 
 built with pure HTML, CSS and Javascript. Hosted on Netlify
